@@ -112,3 +112,11 @@ npm install @rbxts/banner-notify
         message= "Example Banner Notify",
     });
 ```
+
+## 🔍 Examples
+roblox-ts = [banner-notify-test-rbxts](https://github.com/YadBro/banner-notify-test-rbxts)
+
+rojo and wally = [banner-notify-test-rojo](https://github.com/YadBro/banner-notify-test-rojo)
+
+## 📝 Notes
+The original version [2.0](https://devforum.roblox.com/t/%E2%97%89-banner-notify-best-way-to-notify) included a **NumberOfActiveNotifications** method. Unfortunately, the **NumberOfActiveNotifications** method is not included in this repository due to an error. I plan to help fix it soon, although I won't have time this month.
