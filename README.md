@@ -1,6 +1,6 @@
 <img src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/3/5/8/5/3585baca0167f63cc272751c90b84833893eb83a.jpeg" />
 
-<h3 style="text-align: center;">
+<h3 align="center">
     ◉ Banner Notify | Best Way to Notify!
     <br />
     (roblox-ts and [rojo and wally] version)
