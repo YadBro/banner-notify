@@ -1,0 +1,10 @@
+[package]
+name = "yadbro/banner-notify"
+version = "1.4.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+authors = [
+	"YadBro (https://github.com/YadBro)",
+	"blve_hxrizon (https://devforum.roblox.com/u/blve_hxrizon)"
+]
+exclude = ["index.d.ts"]
